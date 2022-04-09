@@ -1,0 +1,23 @@
+.projects {
+  text-align: center;
+
+  .radio-container {
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+    background: $color-3;
+    border-radius: 20px;
+    padding: 10px;
+    color: $white;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.452);
+
+    input {
+      transform: translateY(1px);
+    }
+
+    label {
+      margin-left: 10px;
+      cursor: pointer;
+    }
+  }
+}
