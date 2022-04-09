@@ -1,7 +1,9 @@
 .card {
   position: relative;
-  height: 100px;
-  width: 160px;
+  height: 150px;
+  width: 210px;
+  margin-left: 10px;
+  margin-bottom: 10px;
   border-radius: 4px;
   transition: 0.3s;
 
@@ -35,9 +37,10 @@
     transform: scaleY(0);
     transition: 0.3s;
   }
+
   img {
-    height: 100px;
-    width: 160px;
+    height: 150px;
+    width: 210px;
     object-fit: cover;
     border-radius: 10px;
   }

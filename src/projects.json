@@ -1,34 +1,78 @@
 [
     {
         "title": "Flag guesser",
-        "type": "Unity"
+        "type": "Unity",
+        "image": [
+            "./screen/flag_guesser/0.jpg",
+            "./screen/flag_guesser/1.png",
+            "./screen/flag_guesser/2.png",
+            "./screen/flag_guesser/3.png"
+        ]
     },
     {
         "title": "jeux vidéo",
-        "type": "Unity"
+        "type": "Unity",
+        "image": [
+            "./screen/jeux_vidéo/1.jpg"
+        ]
     },
     {
         "title": "Movie Dash",
-        "type": "web"
+        "type": "web",
+        "image": [
+            "./screen/movie_dash/0.jpg",
+            "./screen/movie_dash/1.jpg",
+            "./screen/movie_dash/2.jpg",
+            "./screen/movie_dash/3.jpg"
+        ]
     },
     {
         "title": "Station météo de survie",
-        "type": "iot"
+        "type": "iot",
+        "image": [
+            "./screen/station_météo_de_survie/1.jpg",
+            "./screen/station_météo_de_survie/2.jpg"
+        ]
     },
     {
         "title": "Key-finder",
-        "type": "iot"
+        "type": "iot",
+        "image": [
+            "./screen/key_finder/0.jpg",
+            "./screen/key_finder/1.jpg",
+            "./screen/key_finder/2.jpg",
+            "./screen/key_finder/3.jpg"
+        ]
     },
     {
         "title": "ECE-commerce",
-        "type": "web"
+        "type": "web",
+        "image": [
+            "./screen/ECE_commerce/0.jpg",
+            "./screen/ECE_commerce/1.jpg",
+            "./screen/ECE_commerce/2.jpg",
+            "./screen/ECE_commerce/3.jpg",
+            "./screen/ECE_commerce/4.jpg"
+        ]
     },
     {
         "title": "La bataille navale",
-        "type": "programmation"
+        "type": "programmation",
+        "image": [
+            "./screen/bataille_navale/0.jpg",
+            "./screen/bataille_navale/1.jpg",
+            "./screen/bataille_navale/2.jpg",
+            "./screen/bataille_navale/3.jpg"
+        ]
     },
     {
         "title": "Le scrabble",
-        "type": "programmation"
+        "type": "programmation",
+        "image": [
+            "./screen/scrabble/0.jpg",
+            "./screen/scrabble/1.jpg",
+            "./screen/scrabble/2.jpg",
+            "./screen/scrabble/3.jpg"
+        ]
     }
 ]
