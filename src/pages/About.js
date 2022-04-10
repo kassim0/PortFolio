@@ -1,11 +1,14 @@
 import React from 'react';
+import { useParams } from 'react-router-dom';
 
 const About = (props) => {
-    console.log(props);
+    const params = useParams()
+    const { projectId } = params
+    console.log(projectId);
 
     return (
         <div>
-            About
+            about
         </div>
     );
 };
