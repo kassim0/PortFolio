@@ -2,56 +2,67 @@
     {
         "id": 0,
         "title": "Flag guesser",
+        "title2": "Flag guesser",
         "type": "Unity",
         "image": [
             "./screen/flag_guesser/0.jpg",
             "./screen/flag_guesser/1.png",
             "./screen/flag_guesser/2.png",
             "./screen/flag_guesser/3.png"
-        ]
+        ],
+        "icon": "./screen/flag_guesser/icon.png"
     },
     {
         "id": 1,
         "title": "jeux vidéo",
+        "title2": "jeux vidéo",
         "type": "Unity",
         "image": [
             "./screen/jeux_vidéo/1.jpg"
-        ]
+        ],
+        "icon": "./screen/jeux_vidéo/icon.png"
     },
     {
         "id": 2,
         "title": "Movie Dash",
+        "title2": "Movie Dash",
         "type": "web",
         "image": [
             "./screen/movie_dash/0.jpg",
             "./screen/movie_dash/1.jpg",
             "./screen/movie_dash/2.jpg",
             "./screen/movie_dash/3.jpg"
-        ]
+        ],
+        "icon": "./screen/movie_dash/icon.png"
     },
     {
         "id": 3,
         "title": "Station météo de survie",
+        "title2": "Station météo",
         "type": "iot",
         "image": [
             "./screen/station_météo_de_survie/1.jpg",
             "./screen/station_météo_de_survie/2.jpg"
-        ]
+        ],
+        "icon": "./screen/station_météo_de_survie/icon.png"
     },
     {
         "id": 4,
         "title": "Key-finder",
+        "title2": "Key-finder",
         "type": "iot",
         "image": [
             "./screen/key_finder/0.jpg",
             "./screen/key_finder/1.jpg",
             "./screen/key_finder/2.jpg",
             "./screen/key_finder/3.jpg"
-        ]
+        ],
+        "icon": "./screen/key_finder/icon.png"
     },
     {
         "id": 5,
         "title": "ECE-commerce",
+        "title2": "ECE-commerce",
         "type": "web",
         "image": [
             "./screen/ECE_commerce/0.jpg",
@@ -59,28 +70,33 @@
             "./screen/ECE_commerce/2.jpg",
             "./screen/ECE_commerce/3.jpg",
             "./screen/ECE_commerce/4.jpg"
-        ]
+        ],
+        "icon": "./screen/ECE_commerce/icon.png"
     },
     {
         "id": 6,
         "title": "La bataille navale",
+        "title2": "Bataille navale",
         "type": "programmation",
         "image": [
             "./screen/bataille_navale/0.jpg",
             "./screen/bataille_navale/1.jpg",
             "./screen/bataille_navale/2.jpg",
             "./screen/bataille_navale/3.jpg"
-        ]
+        ],
+        "icon": "./screen/bataille_navale/icon.png"
     },
     {
         "id": 7,
         "title": "Le scrabble",
+        "title2": "Le scrabble",
         "type": "programmation",
         "image": [
             "./screen/scrabble/0.jpg",
             "./screen/scrabble/1.jpg",
             "./screen/scrabble/2.jpg",
             "./screen/scrabble/3.jpg"
-        ]
+        ],
+        "icon": "./screen/scrabble/icon.png"
     }
 ]

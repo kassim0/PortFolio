@@ -10,7 +10,7 @@ const Projects = () => {
 
     useEffect(() => {
         setData(allProjects)
-    })
+    }, [])
 
     return (
         <div className="projects">
