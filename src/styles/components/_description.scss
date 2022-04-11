@@ -1,0 +1,20 @@
+.description {
+    display: flex;
+    flex-direction: column;
+    padding: 50px 10%;
+    margin-left: 2%;
+    border-radius: 20px;
+    box-shadow: 0px 2px 3px 5px rgba(0, 0, 0, 0.307);
+    //border: solid;
+
+    h3 {
+        text-align: center;
+        padding-top: 70px;
+    }
+
+    .params {
+        margin-top: 5%;
+        font-size: 14px;
+    }
+
+}

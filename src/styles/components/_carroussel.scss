@@ -1,0 +1,15 @@
+.carroussel {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    //border: solid;
+
+    img {
+        max-width: 600px;
+        max-height: 760px;
+        width: auto;
+        height: auto;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+}
