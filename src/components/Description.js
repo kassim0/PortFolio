@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Description = ({ description, caractéristique, domaine, projet }) => {
+const Description = ({ description, caractéristique, domaine, projet, lien, phrase_lien }) => {
     return (
         <div className="description">
             <div className="projet">

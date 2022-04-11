@@ -8,6 +8,7 @@
         "domaine": "Développement Unity",
         "projet": "d'étude",
         "lien": "https://we.tl/t-qZvKbiYosY",
+        "phrase_lien": "Pour télécharger l'apk cliquez",
         "image0": "./screen/flag_guesser/0.jpg",
         "image": [
             "./screen/flag_guesser/1.png",
@@ -18,9 +19,11 @@
         "caractéristique": [
             "- Développement en équipe d’un projet en réalité augmenté sur Unity 3D.",
             "- Programmation des script en C#.",
-            "- Utilisation de Vuforia."
+            "- Utilisation de Vuforia.",
+            "- Les pays disponibles : brésil, arabie saoudite, cambodge, bhoutan, corée du sud.",
+            "- Pour télécharger l'apk suivez ce lien : https://we.tl/t-qZvKbiYosY"
         ],
-        "description": "Il vous arrive souvent de tomber devant un drapeaux dont vous ne connaissiez pas le nom du pays. c'est normal il est difficile d'apprendre les noms des 197 drapeaux. c'est pourquoi nous avons crée l'application flag guesser. Flag guesser est une application de réalité augmenté qui affiche des objets à la reconnaissance du drapeaux. En haut du drapeaux est affiché le nom du pays suivi de la capital, à droite l'emplacement du pays sur le globle et à gauche un évenement/monument connu du pays"
+        "description": "Il vous arrive souvent de tomber devant un drapeau dont vous ne connaissiez pas le nom du pays. c'est normal il est difficile d'apprendre les noms des 197 drapeaux. c'est pourquoi nous avons créé l'application flag guesser. Flag guesser est une application de réalité augmentée qui affiche des objets à la reconnaissance du drapeau. En haut du drapeau est affiché le nom du pays suivi de la capitale, à droite l'emplacement du pays sur le globe et à gauche un évenement/monument connu du pays."
     },
     {
         "id": 1,
@@ -31,14 +34,19 @@
         "domaine": "Développement Unity",
         "projet": "personnel",
         "lien": "https://simmer.io/@Kazzmi/test-project",
+        "phrase_lien": "Pour jouer au jeu :",
         "image0": "./screen/jeux_vidéo/1.jpg",
         "image": [
-            "./screen/jeux_vidéo/1.jpg"
+            "./screen/jeux_vidéo/1.png",
+            "./screen/jeux_vidéo/2.png",
+            "./screen/jeux_vidéo/3.png"
         ],
         "icon": "./screen/jeux_vidéo/icon.png",
         "caractéristique": [
             "- Création en équipe d’un jeux vidéo de plateforme en 2D sur Unity.",
-            "- Développement des scripts en C#"
+            "- Développement des scripts en C#",
+            "- les touches : avancer/reculer : flèches directionnelles | sauter : espace | courir : shift",
+            "- Pour jouer au jeu suiviez ce lien : https://simmer.io/@Kazzmi/test-project"
         ],
         "description": "Jeux de plateforme en 2D dont l'objectif est d'atteindre le sommet du niveau. Le niveau est truffé de piège, réussiriez-vous à atteindre le bout du niveau ?  "
     },
@@ -51,6 +59,7 @@
         "domaine": "Développement web",
         "projet": "d'étude",
         "lien": "",
+        "phrase_lien": "",
         "image0": "./screen/movie_dash/0.jpg",
         "image": [
             "./screen/movie_dash/1.jpg",
@@ -65,7 +74,7 @@
             "- Gestion des utilisateurs et de leurs données via MongoDB et APIs REST.",
             "- Gestion du projet via git."
         ],
-        "description": "Movie dash est un dashboard de films de cinéma mettant en avant les films actuellement aux cinémas, les prochains films aux cinémas, les Blockbusters et les séries les plus aimés du moment. Vous pouvez consulter les détails de chaque film dont les acteurs qui y jouent. Et de même pour chaque acteur. Ce qui vous permet de restez à jour dans le domaine cinématographique"
+        "description": "Movie dash est un dashboard de films de cinéma mettant en avant les films actuellement aux cinémas, les prochains films aux cinémas, les blockbusters et les séries les plus aimés du moment. Vous pouvez consulter les détails de chaque film dont les acteurs qui y jouent. Et de même pour chaque acteur. Ce qui vous permet de rester à jour dans le domaine cinématographique."
     },
     {
         "id": 3,
@@ -75,6 +84,7 @@
         "type": "iot",
         "domaine": "Développement IoT",
         "projet": "d'étude",
+        "phrase_lien": "",
         "lien": "",
         "image0": "./screen/station_météo_de_survie/1.jpg",
         "image": [
@@ -88,7 +98,7 @@
             "- Utilisation d’une API pour la météo.",
             "- Utilisation de Node-Red."
         ],
-        "description": "La station météo de survie est un objet connecté permettant, en cas d'APOCALYPSE (!?), de savoir quelle temps fait dehors. Il possède également un détécteur jour/nuit qui emet un reveil dès le levé du soleil"
+        "description": "La station météo de survie est un objet connecté permettant, en cas d'APOCALYPSE (! ?), de savoir quel temps fait dehors. Il possède également un détecteur jour-nuit qui émet un reveil dès le lever du soleil"
     },
     {
         "id": 4,
@@ -98,6 +108,7 @@
         "type": "iot",
         "domaine": "Développement IoT",
         "projet": "d'étude",
+        "phrase_lien": "",
         "lien": "",
         "image0": "./screen/key_finder/0.jpg",
         "image": [
@@ -112,7 +123,7 @@
             "- Script codé en C++ sur l’IDE Arduino.",
             "- Utilisation d’OCTAVE / Matlab pour l’analyses des ondes"
         ],
-        "description": "Key-finder, comme son nom l'indique, permet de retrouver ses clèfs lorsque vous l'avez perdu. Ce porte clèfs emet un son lorsqu'il reçoit un sifflement"
+        "description": "Key-finder, comme son nom l'indique, permet de retrouver ses clefs lorsque vous l'avez perdu. Ce porte-clefs émet un son lorsqu'il reçoit un sifflement."
     },
     {
         "id": 5,
@@ -122,6 +133,7 @@
         "type": "web",
         "domaine": "Développement web",
         "projet": "d'étude",
+        "phrase_lien": "",
         "lien": "",
         "image0": "./screen/ECE_commerce/0.jpg",
         "image": [
@@ -136,7 +148,7 @@
             "- Affichage des produits et des pages internet en HTML/CSS/JavaScript et Bootstrap.",
             "- Gestion des utilisateurs à l’aide de requête SQL via PhpMyAdmin/MySQL."
         ],
-        "description": "Site d'e-commerce dédié aux étudiants et personnels de l'ECE.  Le site propose 3 types d'articles : Arts / Scolaire / Meubles avec 3 types d'achats : achat immédiat / en plusieurs fois / aux enchères.  "
+        "description": "Site d'e-commerce dédié aux étudiants et personnels de l'ECE.  Le site propose 3 types d'articles : Arts / Scolaires / Meubles avec 3 types d'achats : achat immédiat / en plusieurs fois / aux enchères.  "
     },
     {
         "id": 6,
@@ -146,6 +158,7 @@
         "type": "programmation",
         "domaine": "Développement POO",
         "projet": "d'étude",
+        "phrase_lien": "",
         "lien": "",
         "image0": "./screen/bataille_navale/0.jpg",
         "image": [
@@ -157,7 +170,7 @@
             "- Développement du jeu en JAVA sur le logiciel netBeans.",
             "- Développement d'une IA."
         ],
-        "description": "Le célèbre jeu de société la bataille navale codée uniquement en JAVA en respectant les règles du jeu. Celui qui n'a plus de bateaux perds! le jeu se joue contre une IA "
+        "description": "Le célèbre jeu de société la bataille navale codée uniquement en JAVA en respectant les règles du jeu. Celui qui n'a plus de bateaux perd! le jeu se joue contre une IA."
     },
     {
         "id": 7,
@@ -167,6 +180,7 @@
         "type": "programmation",
         "domaine": "Développement code C",
         "projet": "d'étude",
+        "phrase_lien": "",
         "lien": "",
         "image0": "./screen/scrabble/0.jpg",
         "image": [

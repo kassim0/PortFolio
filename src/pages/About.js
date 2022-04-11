@@ -24,7 +24,13 @@ const About = () => {
                             <Carroussel images={project.image} />
                             <div key={"des" + index} className="presentation">
                                 <Title className="title" title={project.title} icon={project.icon} />
-                                <Description description={project.description} caractéristique={project.caractéristique} projet={project.projet} domaine={project.domaine} />
+                                <Description
+                                    description={project.description}
+                                    caractéristique={project.caractéristique}
+                                    projet={project.projet}
+                                    domaine={project.domaine}
+                                    lien={project.lien}
+                                    phrase_lien={project.phrase_lien} />
                             </div>
                         </div>)
             }
