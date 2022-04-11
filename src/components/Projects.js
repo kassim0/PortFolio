@@ -27,6 +27,7 @@ const Projects = () => {
                 {
                     data
                         .filter((project) => project.type.includes(selectedRadio))
+                        .sort((a, b) => b.ordre - a.ordre)
                         .map((project, index) => <Project key={index} project={project} />)
                 }
             </ul>

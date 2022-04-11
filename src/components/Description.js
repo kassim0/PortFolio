@@ -8,7 +8,7 @@ const Description = ({ description, caractéristique, domaine, projet }) => {
             </div>
             <h3>{description}</h3>
             <div className="params">
-                {caractéristique.map((param) => <p>{param}</p>)}
+                {caractéristique.map((param, index) => <p key={index}>{param}</p>)}
             </div>
         </div>
     );

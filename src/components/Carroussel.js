@@ -19,9 +19,11 @@ const Carroussel = ({ images }) => {
 
     return (
         <div className="carroussel">
-            <button onClick={() => [remove()]}>-1</button>
             <img src={"." + images[numero]} />
-            <button onClick={() => [add()]}>+1</button>
+            <div className="changement">
+                <button onClick={() => [remove()]}>précédent</button>
+                <button onClick={() => [add()]}>suivant</button>
+            </div>
         </div>
     );
 };

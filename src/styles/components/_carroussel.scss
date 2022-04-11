@@ -1,7 +1,9 @@
 .carroussel {
     position: relative;
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    margin-right: 10px;
     //border: solid;
 
     img {
@@ -11,5 +13,21 @@
         height: auto;
         object-fit: cover;
         border-radius: 10px;
+    }
+
+    .changement {
+        //border: solid;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: -16px;
+
+        button {
+            width: 100%;
+            background-color: rgba(128, 128, 128, 0.207);
+            border-radius: 20px;
+            border: none;
+            box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.391);
+        }
     }
 }

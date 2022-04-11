@@ -1,22 +1,20 @@
 .about {
-
-    hr {
-        border: none;
-        border-top: 3px double rgb(16, 198, 201);
-        //color: rgb(24, 208, 224);
-        overflow: visible;
-        height: 5px;
-        width: 50%;
-        margin: 5% auto;
-        text-align: center;
-    }
+    display: flex;
+    //border: solid red;
 
 
-    .detail {
+
+    .details {
         margin: 5%;
         display: flex;
         flex-direction: row;
-        justify-content: space-between;
-        //border: solid;
+        align-items: flex-end;
+        justify-content: space-evenly;
+        //border: solid blue;
     }
+
+    .presentation {
+        margin-left: 10px;
+    }
+
 }

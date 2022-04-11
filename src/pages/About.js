@@ -20,15 +20,11 @@ const About = () => {
                 data
                     .filter((project) => project.id == projectId)
                     .map((project, index) =>
-                        <div key={index}>
-                            <Title title={project.title2} icon={project.icon} />
-                            <hr />
-                            <div className="detail">
-                                <Carroussel images={project.image} />
-                                <Description description={project.description}
-                                    caractéristique={project.caractéristique}
-                                    domaine={project.domaine}
-                                    projet={project.projet} />
+                        <div key={index} className="details">
+                            <Carroussel images={project.image} />
+                            <div key={"des" + index} className="presentation">
+                                <Title className="title" title={project.title} icon={project.icon} />
+                                <Description description={project.description} caractéristique={project.caractéristique} projet={project.projet} domaine={project.domaine} />
                             </div>
                         </div>)
             }
