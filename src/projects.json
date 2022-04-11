@@ -35,7 +35,7 @@
         "projet": "personnel",
         "lien": "https://simmer.io/@Kazzmi/test-project",
         "phrase_lien": "Pour jouer au jeu :",
-        "image0": "./screen/jeux_vidéo/1.jpg",
+        "image0": "./screen/jeux_vidéo/0.png",
         "image": [
             "./screen/jeux_vidéo/1.png",
             "./screen/jeux_vidéo/2.png",
